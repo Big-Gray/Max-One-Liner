@@ -1,2 +1,2 @@
 # Max-One-Liner
-tic-80 oneliner
+My version of the classic 10 PRINT oneliner 
